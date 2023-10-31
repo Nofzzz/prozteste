@@ -1,0 +1,8 @@
+<html>
+<head>
+    <title>Exemplo de Imagem</title>
+</head>
+<body>
+    <img src="URL_DA_SUA_IMAGEM" alt="Minha Imagem">
+</body>
+</html>
